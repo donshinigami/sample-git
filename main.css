@@ -1,0 +1,122 @@
+
+*{
+	padding: 0;
+	margin: 0;
+}
+a {
+	text-decoration: none;
+	
+}
+
+/*
+-------------------------------------
+ТИПОГРФИКА
+-------------------------------------
+*/
+
+h1 {
+	color: white;
+	font-size: 56px;
+	line-height: 82px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+
+
+/*
+-------------------------------------
+HEADER
+-------------------------------------
+*/
+
+.logo {
+	margin: 34px 70px 37px 0px;
+}
+.total-logo {
+	margin: 18px 0 17px 0;
+}
+.elf-logo {
+	margin: 13px 0 17px 62px;
+}
+.pictures {
+	width: 1000px;
+	height: 100px;
+}
+
+.feedback ul{
+	text-align: center;
+	font-size: 18px;
+	line-height: 36px;
+	
+}
+.feedback a {
+	color: black;
+	margin-right: 50px;
+}
+
+
+
+.telephone::before {
+	content: url(../images/telephone.png);
+	padding-right: 14px;
+}
+.question::before {
+	content: url(../images/question.png);
+	padding-right: 14px;
+}
+
+/*
+-------------------------------------
+SECTION
+-------------------------------------
+*/
+
+.hero {
+	background-image: url(../images/car.png);
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.hero ul{
+	text-align: center;
+}
+
+.hero li {
+	display: inline-block;
+	margin-right: 51px;
+	
+}
+
+.hero a {
+	color: white;
+	text-transform: uppercase;
+	font-size: 24px;
+	line-height: 36px;
+	
+}
+.total-production {
+	border-bottom: 6px solid #ee3434;
+}
+
+.elf-production {
+	border-bottom: 6px solid #2d8ddf;;
+}
+
+/*
+-------------------------------------
+FOOTER
+-------------------------------------
+*/
+
+.footer {
+	text-align: center;
+}
+
+.footer p {
+	display: inline-block;
+	margin-right: 69px;
+	font-size: 16px;
+	line-height: 28px;
+	margin-top: 30px;
+}
