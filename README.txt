@@ -1,0 +1,19 @@
+Привет мир!
+ываываыва
+sdfsafdasfd
+sadfasdf
+sadf
+asdf
+asdf
+as
+df
+asd
+f
+asd
+f
+asd
+f
+sd
+f
+df
+d
